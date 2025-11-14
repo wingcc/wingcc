@@ -39,7 +39,7 @@
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=FBGDFB&theme=dark)
 
 ##🚀 ⚙️ GitHub Metrics
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FBGDFB)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FBGDFB&stats_format=bytes)
 
 
   ## 💰 You can help me by donating
