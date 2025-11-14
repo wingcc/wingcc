@@ -33,14 +33,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=FBGDFB&theme=onedark&no-frame=false&no-bg=false&margin-w=8)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E2E2E,100:000000&height=200&section=header&text=FBGDFB&fontSize=50&fontColor=FFFFFF)
-## ✍️ Quote of the Day:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-## 🕒 ⌛ GitHub Coding Time
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=FBGDFB&theme=dark)
-
-##🚀 ⚙️ GitHub Metrics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FBGDFB&stats_format=bytes)
-
+ 
 
   ## 💰 You can help me by donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ELBOUHAILI) 
