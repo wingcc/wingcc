@@ -39,7 +39,7 @@
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=FBGDFB&theme=dark)
 
 ##🚀 ⚙️ GitHub Metrics
-![Metrics](https://github.com/FBGDFB/FBGDFB/blob/main/github-metrics.svg)
+![Metrics](https://github.com/wingcc/FBGDFB/blob/main/github-metrics.svg)
 
 
   ## 💰 You can help me by donating
